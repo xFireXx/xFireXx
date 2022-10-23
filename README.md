@@ -1,6 +1,6 @@
 ### Cześć, jestem Maciek 👋
 
-Jestem studentem informatyki i moim celem jest zostanie Frontend Developerem. W wolnych chwilach wrzucam filmiki na YouTube w zakresie informatyki pomagające zdać egzamin zawodowy. 
+Jestem studentem informatyki i junior front-end developerem.
 
 
 
