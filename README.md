@@ -2,6 +2,8 @@
 
 Jestem studentem informatyki i junior front-end developerem.
 
+Projekty zawarte na GitHubie były robione w trakcie procesu nauki. Aktualnie rozwijam się w projektach komercyjnych i czasem sobie coś popiszę swojego :) 
+
 
 
 <h2>Języki w których aktualnie się rozwijam:</h2>
